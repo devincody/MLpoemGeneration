@@ -1,3 +1,8 @@
+#Not used in RNN.py
+# Borrowed from keras documentation:
+# https://github.com/keras-team/keras/blob/master/examples/addition_rnn.py
+
+
 import numpy as np
 
 
